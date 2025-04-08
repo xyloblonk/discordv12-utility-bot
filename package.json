@@ -1,0 +1,17 @@
+{
+  "name": "container",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js",
+  },
+  "keywords": [],
+  "author": "XyloBlonk",
+  "license": "GNU GPL v3",
+  "dependencies": {
+    "chalk": "4.1.0",
+    "discord.js": "^12.5.3"
+  },
+  "description": ""
+}
