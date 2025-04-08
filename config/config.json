@@ -1,0 +1,13 @@
+{
+    "token": "DISCORD BOT TOKEN",
+    "prefix": "!",
+    "yourUserID": "YOUR OWNER ID",
+    "databaseFilePath": "./database/data.json",
+    "WEBHOOK_URL": "MAIN WEBHOOK",
+    "REPORT_WEBHOOK_URL": "WEBHOOK FOR REPORTS",
+    "inviteLinks": {
+        "server1": "https://discord.gg/example1",
+        "server2": "https://discord.gg/example2",
+        "server3": "https://discord.gg/example3"
+    }
+}
