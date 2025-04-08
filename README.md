@@ -9,7 +9,6 @@
 <a target="_blank" href="https://railway.app/new/template?template=https://github.com/xyloblonk/discordv12-utility-bot"><img alt="Deploy on Railway" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg"></a>
 <a target="_blank" href="https://vercel.com/new/clone?repository-url=https://github.com/xyloblonk/discordv12-utility-bot"><img alt="Deploy to Vercel" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg"></a>
 <a target="_blank" href="https://app.netlify.com/start/deploy?repository=https://github.com/xyloblonk/discordv12-utility-bot"><img alt="Deploy to Netlify" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg"></a>
-<a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/xyloblonk/discordv12-utility-bot&branch=main&name=discordv12-utility-bot><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
 <a target="_blank" href="https://render.com/deploy?repo=https://github.com/xyloblonk/discordv12-utility-bot"><img alt="Deploy to Render" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg"></a>
 <a target="_blank" href="https://app.cyclic.sh/api/app/deploy/xyloblonk/discordv12-utility-bot"><img alt="Deploy to Cyclic" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/cyclic.svg"></a>
 
